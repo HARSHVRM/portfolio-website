@@ -99,7 +99,7 @@ const About = () => {
           <li>
             <a
               className="facebook"
-              href="https://www.facebook.com/harsh.verma.7140/"
+              href="https://www.facebook.com/harsh.verma.70/"
               target="_blank"
             >
               <FaFacebookSquare />
@@ -109,7 +109,7 @@ const About = () => {
           <li>
             <a
               className="instagram"
-              href="https://www.instagram.com/harsh__vrm/"
+              href="https://www.instagram.com/"
               target="_blank"
             >
               <FaInstagramSquare />
@@ -125,7 +125,7 @@ const About = () => {
           <li>
             <a
               className="linkedin"
-              href="https://www.linkedin.com/in/harsh-verma-8aa66a1b3/"
+              href="https://www.linkedin.com/in/harsh-verma-8aa66a1/"
               target="_blank"
             >
               <FaLinkedin />
